@@ -1,0 +1,43 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram id="fY2SB6Z-r_AvFPWwr-Ik" name="Página-1">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-1AiFFXiqT36wv3Na7qW-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="-1AiFFXiqT36wv3Na7qW-1" target="-1AiFFXiqT36wv3Na7qW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1AiFFXiqT36wv3Na7qW-1" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="364" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1AiFFXiqT36wv3Na7qW-2" value="FIM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="364" y="750" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1AiFFXiqT36wv3Na7qW-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="-1AiFFXiqT36wv3Na7qW-3" target="-1AiFFXiqT36wv3Na7qW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1AiFFXiqT36wv3Na7qW-3" value="Número 1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="364" y="260" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1AiFFXiqT36wv3Na7qW-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="-1AiFFXiqT36wv3Na7qW-4" target="-1AiFFXiqT36wv3Na7qW-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1AiFFXiqT36wv3Na7qW-4" value="Número 2" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="364" y="380" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-1AiFFXiqT36wv3Na7qW-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="-1AiFFXiqT36wv3Na7qW-5" target="-1AiFFXiqT36wv3Na7qW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1AiFFXiqT36wv3Na7qW-5" value="Resultados" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="324" y="640" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-1AiFFXiqT36wv3Na7qW-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="-1AiFFXiqT36wv3Na7qW-6" target="-1AiFFXiqT36wv3Na7qW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-1AiFFXiqT36wv3Na7qW-6" value="resultado = num1 + num2&lt;div&gt;resultado = num1 - num2&lt;/div&gt;&lt;div&gt;resultado = num1 / num2&lt;/div&gt;&lt;div&gt;resultado = num1 * num2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;hachureGap=4;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="320" y="514.5" width="189" height="65.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

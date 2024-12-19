@@ -1,0 +1,84 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Página-1" id="DR56QGTZ70JvzkYRfGF6">
+    <mxGraphModel dx="1500" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LaNJQjUdkkuTQ6II4x54-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LaNJQjUdkkuTQ6II4x54-1" target="LaNJQjUdkkuTQ6II4x54-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaNJQjUdkkuTQ6II4x54-1" value="INICIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="20" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LaNJQjUdkkuTQ6II4x54-2" value="FIM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="370" y="880" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LaNJQjUdkkuTQ6II4x54-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LaNJQjUdkkuTQ6II4x54-3" target="LaNJQjUdkkuTQ6II4x54-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaNJQjUdkkuTQ6II4x54-3" value="Salario" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="370" y="120" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LaNJQjUdkkuTQ6II4x54-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LaNJQjUdkkuTQ6II4x54-4" target="LaNJQjUdkkuTQ6II4x54-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaNJQjUdkkuTQ6II4x54-4" value="bonus = salario + 10%&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="354" y="270" width="132" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LaNJQjUdkkuTQ6II4x54-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LaNJQjUdkkuTQ6II4x54-5" target="LaNJQjUdkkuTQ6II4x54-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaNJQjUdkkuTQ6II4x54-5" value="&lt;div&gt;salarioBruto = salario + bonus&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="334" y="380" width="172" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LaNJQjUdkkuTQ6II4x54-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LaNJQjUdkkuTQ6II4x54-6" target="LaNJQjUdkkuTQ6II4x54-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaNJQjUdkkuTQ6II4x54-26" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LaNJQjUdkkuTQ6II4x54-8">
+          <mxGeometry x="-0.4921" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LaNJQjUdkkuTQ6II4x54-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LaNJQjUdkkuTQ6II4x54-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LaNJQjUdkkuTQ6II4x54-27" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LaNJQjUdkkuTQ6II4x54-10">
+          <mxGeometry x="-0.1339" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LaNJQjUdkkuTQ6II4x54-6" value="salarioBruto &amp;lt;= 1200" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="352" y="500" width="136" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LaNJQjUdkkuTQ6II4x54-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LaNJQjUdkkuTQ6II4x54-7" target="LaNJQjUdkkuTQ6II4x54-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="735" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LaNJQjUdkkuTQ6II4x54-7" value="irrf = salarioBruto * 15%&lt;div&gt;saldoFinal = salarioBruto - irrf&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="520" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LaNJQjUdkkuTQ6II4x54-11" value="irrf = salarioBruto * 20%&lt;div&gt;saldoFinal = salarioBruto - irrf&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="560" y="520" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LaNJQjUdkkuTQ6II4x54-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LaNJQjUdkkuTQ6II4x54-12" target="LaNJQjUdkkuTQ6II4x54-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LaNJQjUdkkuTQ6II4x54-12" value="Salario,&amp;nbsp;&lt;div&gt;Bonus,&lt;div&gt;SalarioBruto,&lt;/div&gt;&lt;div&gt;saldoFinal&lt;/div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="349" y="700" width="142" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="LaNJQjUdkkuTQ6II4x54-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LaNJQjUdkkuTQ6II4x54-11" target="LaNJQjUdkkuTQ6II4x54-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="735" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Página-1" id="6wrtJ-ay4Rr2B-f3pZjj">
+    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gAI9M5z5RUSxf8HSUjnY-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gAI9M5z5RUSxf8HSUjnY-1" target="gAI9M5z5RUSxf8HSUjnY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gAI9M5z5RUSxf8HSUjnY-1" value="&lt;font face=&quot;Verdana&quot;&gt;Inicio&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" vertex="1" parent="1">
+          <mxGeometry x="350" y="250" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gAI9M5z5RUSxf8HSUjnY-2" value="FIM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;hachureGap=4;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="350" y="650" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gAI9M5z5RUSxf8HSUjnY-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gAI9M5z5RUSxf8HSUjnY-3" target="gAI9M5z5RUSxf8HSUjnY-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gAI9M5z5RUSxf8HSUjnY-3" value="Peso" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;hachureGap=4;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="350" y="350" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gAI9M5z5RUSxf8HSUjnY-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gAI9M5z5RUSxf8HSUjnY-4" target="gAI9M5z5RUSxf8HSUjnY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gAI9M5z5RUSxf8HSUjnY-4" value="resultado = Quadrado de cada numero" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;hachureGap=4;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="295" y="450" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gAI9M5z5RUSxf8HSUjnY-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gAI9M5z5RUSxf8HSUjnY-5" target="gAI9M5z5RUSxf8HSUjnY-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gAI9M5z5RUSxf8HSUjnY-5" value="Resultado" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;hachureGap=4;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="350" y="540" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
